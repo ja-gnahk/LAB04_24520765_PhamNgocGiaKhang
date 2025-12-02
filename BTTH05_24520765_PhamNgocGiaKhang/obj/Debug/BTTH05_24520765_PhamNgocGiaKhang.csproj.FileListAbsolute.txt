@@ -1,0 +1,12 @@
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\bin\Debug\BTTH05_24520765_PhamNgocGiaKhang.exe.config
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\bin\Debug\BTTH05_24520765_PhamNgocGiaKhang.exe
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\bin\Debug\BTTH05_24520765_PhamNgocGiaKhang.pdb
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.csproj.AssemblyReference.cache
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.AddSinhVien.resources
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.QLSV.resources
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.Properties.Resources.resources
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.csproj.GenerateResource.cache
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.csproj.CoreCompileInputs.cache
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.exe
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.pdb
+D:\UIT-2025-2026\LTTQ\Thực hành\Lab04\BTTH\BTTH05_24520765_PhamNgocGiaKhang\obj\Debug\BTTH05_24520765_PhamNgocGiaKhang.exe.config
